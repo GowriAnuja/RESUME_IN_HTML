@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio(Resume)</title>
+</head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size:18px;">
+    <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 45px; text-align: center; "><b>RESUME</b></p>
+    <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 40px; "><b>KALLURI GOWRI ANUJA</b></p>
+    <p>Mobile number: 7674928269</p>
+    <p>Email: <a href="mailto:gowrianuja19@gmail.com">gowrianuja19@gmail.com</a></p>
+    <p> Github: <a href="Github: github.com/GowriAnuja">github.com/GowriAnuja</a></p>
+    <p>Linkedin: <a href="linkedin.com/in/gowri-anuja-242818257/">linkedin.com/in/gowri-anuja-242818257/</a></p>
+
+    <p style="font-size:x-large ; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"><b><mark style="background-color:lightgray">CAREER OBJECTIVE</mark></b></p>
+    <p style="font-size: large; font-size: 19px;">Motivated to contribute positively to a team that values creativity and encourages innovation. Embrace 
+        challenges and opportunities with a growth mindset, resilience, and a passion for  learning and growth.</p>
+
+    <p style="font-size:x-large; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"><b><mark style="background-color:lightgray">EDUCATION</mark></b></p>
+    <details>
+        <summary>Btech Information Technology</summary>
+        <p>KKR & KSR Institute Of Technology And Sciences</p> 
+        <p>2021-2025  =>  85%</p>
+    </details>
+    <details>
+        <summary>Intermediate-MPC</summary>
+        <p>Narayana Junior College</p>
+        <p>2019-2021  =>  95%</p>
+    </details>
+    <details>
+        <summary>Secondary Education</summary>
+        <p>Sri Chiatanya School</p>
+        <p>2018-2019  =>  9.5GPA </p>
+    </details>
+    
+    <p style="font-size:x-large; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"><b><mark style="background-color: lightgray;">SKILLS</mark></b></p>
+    <p style="font-size: larger;"><b>Technical Skills:</b></p>
+    <p><b>Programming Language:</b> Python</p>
+    <p><b>Web Technologies:</b> HTML,CSS</p>
+    <p><b>Microsoft Office Tools:</b> MS Word, MS PowerPoint, MS Excel</p>
+    <p style="font-size: larger;"><b>Personal Skills:</b></p>
+    <p>Time Management <br></br> Creative Thinking <br></br> Communication Skills</p>
+
+
+
+  
+    <p style="font-size:x-large; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"><b><mark style="background-color: lightgray;">PROJECTS</mark></b></p>
+    <p><b>Project Name: TRAIT VISION</b></p>
+    <p><b>Description:</b> This project focused on delivering fresh & healthy food to user's homes through an 
+        advanced full-stack application.</p>
+    <p><b>Project Name: LI-FI DATA&AUDIO TRANSFER SYSTEM</b></p>
+    <p><b>Description:</b> This project is done by using IoT components for secure wireless data transfer.  
+        Achieved high-speed data transmission and reception through light. </p>
+
+    
+    <p style="font-size:x-large; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"><b><mark style="background-color: lightgray;">CERTIFICATE</mark></b></p>
+    <p>A Certified Course On “Programming in python” By Swayam.</p>
+
+    <p style="font-size:x-large; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"><b><mark style="background-color: lightgray;">ACHIEVEMENTS</mark></b></p>
+    <p> • Secured 3rd prize in a Full Stack Hackathon as part of a collaborative team effort. </p>
+    <p>• Achieved 2nd prize in a Meme Making Competition, showcasing creativity& humour in a competitive 
+        setting. </p>
+
+    
+    <p style="font-size:x-large; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"><b><mark style="background-color: lightgray;">ORGANISATION</mark></b></p>
+    <p><b>KITS E-CELL CLUB</b></p>
+    <p>Co-ordinator (Hospitality&Alumni)</p>
+    <p>As a coordinator I played a pivotal role in various settings, including organizations, events, projects & 
+        teams. Essentially & acts as a bridge between different parties, ensuring smooth communication,  
+        organization,   and execution of tasks.</p>
+     
+    <p style="font-size:x-large; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"><b><mark style="background-color: lightgray;">PERSONAL DETAILS</mark></b></p>
+    <p><strong>Full Name:</strong> Kalluri Gowri Anuja</p>
+    <p><strong>Father Name:</strong> Kalluri Ramabrahmaiah</p>
+    <p><strong>Mother Name:</strong> Kalluri Seeta</p>
+    <p><strong>Date of Birth:</strong> 19-06-2003</p>
+    <p><strong>Gender:</strong> Female</p>
+    <p><strong>Nationality:</strong> Indian</p>
+    <p><strong>Permanent Address:</strong> 13-57/b, Vengalayapalem, Ankireddypalem, Guntur-522005, Andhra Pradesh.</p>
+     
+
+    <p style="font-size:x-large; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"><b><mark style="background-color: lightgray;">DECLARATION </mark></b></p>
+    <p> I here declare that all the above mentioned information is true and correct to the best of my knowledge. </p> 
+    
+
+    <div>
+        <span style="float: left;"><b>Location:</b> Guntur</span>
+        <span style="float: right;"><b>Signature:</b>(K.Gowri Anuja)</span>
+    </div>
+
+
+
+</body>
+</html>
